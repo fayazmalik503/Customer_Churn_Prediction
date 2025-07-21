@@ -29,24 +29,15 @@ Edit
 
 ### 1. Clone the repo
 
-```bash
-git clone <repo-url>
+git clone https://github.com/fayazmalik503/Customer_Churn_Prediction.git
 cd Customer_Churn_Prediction
 2. Create and activate virtual environment (Windows)
-bash
-Copy
-Edit
 python -m venv env_churn
 env_churn\Scripts\activate
 3. Install dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 4. Start Jupyter Notebook
-bash
-Copy
-Edit
 jupyter notebook
 Use notebooks/01_eda.ipynb to explore and analyze the data.
 
@@ -72,8 +63,7 @@ LightGBM
 
 (Extendable for deep learning or AutoML)
 
-🤖 Agentic AI Ready
-This project is designed to be modular and can integrate with AI agent tools for automation, pipeline triggering, model comparison, and AutoML.
+
 
 🛠 Tools & Libraries
 Python
@@ -87,6 +77,7 @@ Scikit-learn
 Jupyter Notebook
 
 XGBoost, LightGBM
+
 
 📌 Future Work
 Add a Streamlit/Gradio dashboard
