@@ -19,11 +19,6 @@ Customer_Churn_Prediction/
 ├── main.py
 └── README.md
 
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 How to Run
 
